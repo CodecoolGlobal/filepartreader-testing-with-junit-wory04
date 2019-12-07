@@ -1,0 +1,26 @@
+Characters, words, or lines:
+The most familiar palindromes in English are character-unit palindromes. The characters read the same backward as forward. Some examples of palindromic words are redivider, deified, civic, radar, level, rotor, kayak, reviver, racecar, redder, madam, and refer.
+
+There are also word-unit palindromes in which the unit of reversal is the word ("Is it crazy how saying sentences backwards creates backwards sentences saying how crazy it is?"). Word-unit palindromes were made popular in the recreational linguistics community by J. A. Lindon in the 1960s. Occasional examples in English were created in the 19th century. Several in French and Latin date to the Middle Ages.
+
+There are also line-unit palindromes.
+
+Sentences and phrases:
+Palindromes often consist of a sentence or phrase, e.g., "Mr. Owl ate my metal worm", "Do geese see God?", "Was it a car or a cat I saw?", "Murder for a jar of red rum" or "Go hang a salami, I'm a lasagna hog". Punctuation, capitalization, and spaces are usually ignored. Some, such as "Rats live on no evil star", "Live on time, emit no evil", and "Step on no pets", include the spaces.
+
+Semordnilap:
+Semordnilap (palindromes spelled backward) is a name coined for words that spell a different word in reverse. The word was coined by Martin Gardner in his notes to C.C. Bombaugh's book Oddities and Curiosities of Words and Literature in 1961.[10]
+
+An example of this is the word stressed, which is desserts spelled backward.
+
+Some semordnilaps are deliberate creations. An example in electronics (although rarely used now) is the mho, a unit of electrical conductance, which is ohm spelled backwards, the unit of electrical resistance and the reciprocal of conductance. Similarly, the daraf, a unit of elastance, is farad spelled backwards, the unit of capacitance and the reciprocal of elastance. In fiction, many characters have names deliberately made to be semordnilaps of other names or words, such as Alucard (a semordnilap of "Dracula").
+
+Semordnilaps are also known as emordnilaps,[11] word reversals, reversible anagrams,[12] heteropalindromes, semi-palindromes, half-palindromes, reversgrams, mynoretehs, volvograms, or anadromes.[13][14][15] They have also sometimes been called antigrams,[13] though this term usually refers to anagrams which have opposite meanings. As of October 2018, none of these terms have been accepted as official entries in the Oxford English Dictionary.[16]
+
+Names:
+Some names are palindromes, such as the given names Hannah, Ava, Anna, Eve, Bob and Otto, or the surnames Harrah, Renner, Salas and Nenonen. Lon Nol (1913–1985) was Prime Minister of Cambodia. Nisio Isin is a Japanese novelist and manga writer, whose pseudonym (西尾 維新, Nishio Ishin) is a palindrome when romanized using the Kunrei-shiki or the Nihon-shiki systems, and is often written as NisiOisiN to emphasize this. Some people have changed their name in order to make of it a palindrome (such as actor Robert Trebor and rock-vocalist Ola Salo), while others were given a palindromic name at birth (such as the philologist Revilo P. Oliver or the flamenco dancer Sara Baras).
+
+There are also palindromic names in fictional media. "Stanley Yelnats" is the name of the main character in Holes, a 1998 novel and 2003 film. Four of the fictional Pokémon species have palindromic names in English (Eevee, Girafarig, Ho-Oh, and Alomomola).
+
+The 1970s pop band ABBA is a palindrome using the starting letter of the first name of each of the four band members.
+
